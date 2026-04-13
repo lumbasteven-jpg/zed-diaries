@@ -1,9 +1,14 @@
 
-# Zed Diaries Website
+# Zed Diaries (Fixed Version)
 
-## Run locally
+## Install
 npm install
+
+## Run
 npm run dev
 
+## Build
+npm run build
+
 ## Deploy
-Upload this project to GitHub and import into Vercel.
+Upload to GitHub and import into Vercel
